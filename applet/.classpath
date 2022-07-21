@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/az/Documents/dependencias-assdigital/azi-util-base-5.8.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/az/Documents/dependencias-assdigital/bcpkix-jdk15on-1.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/az/Documents/dependencias-assdigital/bcprov-jdk15on-1.54.jar"/>
+	<classpathentry kind="lib" path="C:/Users/az/Documents/dependencias-assdigital/sigacomum-assinatura-digital-2.14.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_171"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
